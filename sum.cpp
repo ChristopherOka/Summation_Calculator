@@ -1,5 +1,5 @@
 #include <iostream>
-#include "a1_q2_functions.h"
+#include "functions.h"
 
 int main() {
 	input(); //call input function
